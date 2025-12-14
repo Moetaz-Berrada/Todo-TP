@@ -1,0 +1,126 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - TODO</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/TODO.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        .theme-switcher {
+            cursor: pointer;
+            font-size: 0.95rem;
+            font-weight: 600;
+            padding: 0.45rem 0.9rem;
+            border-radius: 999px;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            transition: all 0.25s ease-in-out;
+            border: 1px solid transparent;
+        }
+
+        .theme-switcher-dark {
+            background-color: #E3E3E3;
+            color: #000 !important;
+            border-color: #E3E3E3;
+        }
+
+        .theme-switcher-dark:hover {
+            background-color: #ffca2c;
+            color: #000 !important;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 10px rgba(255, 193, 7, 0.4);
+            }
+
+        .theme-switcher-light {
+            background-color: #212529;
+            color: #fff !important;
+            border-color: #212529;
+        }
+
+            .theme-switcher-light:hover {
+                background-color: #000;
+                color: #fff !important;
+                transform: translateY(-1px);
+                box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+            }
+    </style>
+
+</head>
+<body class="@(ViewBag.Theme == "dark" ? "bg-dark text-white" : "bg-light text-dark")">
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm @(ViewBag.Theme == "dark" ? "navbar-dark bg-dark" : "navbar-light bg-white") border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Todo" asp-action="Index">TODO</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link @(ViewBag.Theme == "dark" ? "text-white" : "text-dark")" asp-controller="Todo" asp-action="Index">
+                                <i class="fas fa-home"></i> Accueil
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link @(ViewBag.Theme == "dark" ? "text-white" : "text-dark")" asp-controller="Todo" asp-action="Add">
+                                <i class="fas fa-plus"></i> Ajouter
+                            </a>
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            @if (ViewBag.Theme == "dark")
+                            {
+                                <a class="nav-link theme-switcher theme-switcher-dark"
+                                   asp-controller="Theme"
+                                   asp-action="Switch"
+                                   asp-route-theme="light"
+                                   title="Passer en mode clair">
+                                   Light
+                                </a>
+                            }
+                            else
+                            {
+                                <a class="nav-link theme-switcher theme-switcher-light"
+                                   asp-controller="Theme"
+                                   asp-action="Switch"
+                                   asp-route-theme="dark"
+                                   title="Passer en mode sombre">
+                                   Dark
+                                </a>
+                            }
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link @(ViewBag.Theme == "dark" ? "text-white" : "text-dark")" asp-controller="Login" asp-action="Logout">
+                                <i class="fas fa-sign-out-alt"></i> Logout
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2025 - TODO - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

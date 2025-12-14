@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\controllers\\themecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\controllers\\themecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\views\\todo\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\views\\todo\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\filters\\themefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\filters\\themefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\filters\\loginfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\filters\\loginfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\viewmodels\\todoaddvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\viewmodels\\todoaddvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\viewmodels\\todoeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\viewmodels\\todoeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\services\\sessionmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\services\\sessionmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\mappers\\todomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\mappers\\todomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\enums\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\enums\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|c:\\users\\user\\desktop\\4\u00E8me ann\u00E9e\\.net\\todo\\todo\\services\\isessionmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2922A04-EEB4-4153-B509-1F65E1BA5919}|TODO\\TODO.csproj|solutionrelative:todo\\services\\isessionmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "TODO\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "TODO\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T02:02:23.572Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Program.cs",
+              "RelativeDocumentMoniker": "TODO\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Program.cs",
+              "RelativeToolTip": "TODO\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:42:53.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TODO\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TODO\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGQAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T11:59:57.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "TODO\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "TODO\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T04:40:14.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "TODO\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "TODO\\ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T04:37:45.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "TODO\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "TODO\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T11:11:19.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThemeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Controllers\\ThemeController.cs",
+              "RelativeDocumentMoniker": "TODO\\Controllers\\ThemeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Controllers\\ThemeController.cs",
+              "RelativeToolTip": "TODO\\Controllers\\ThemeController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:54:37.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginFilter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Filters\\LoginFilter.cs",
+              "RelativeDocumentMoniker": "TODO\\Filters\\LoginFilter.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Filters\\LoginFilter.cs",
+              "RelativeToolTip": "TODO\\Filters\\LoginFilter.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:04:19.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TODO\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TODO\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:40:19.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Views\\Todo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TODO\\Views\\Todo\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Views\\Todo\\Edit.cshtml",
+              "RelativeToolTip": "TODO\\Views\\Todo\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T13:10:12.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Views\\Todo\\Add.cshtml",
+              "RelativeDocumentMoniker": "TODO\\Views\\Todo\\Add.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Views\\Todo\\Add.cshtml",
+              "RelativeToolTip": "TODO\\Views\\Todo\\Add.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T08:41:28.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ThemeFilter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Filters\\ThemeFilter.cs",
+              "RelativeDocumentMoniker": "TODO\\Filters\\ThemeFilter.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Filters\\ThemeFilter.cs",
+              "RelativeToolTip": "TODO\\Filters\\ThemeFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:56:47.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TodoAddVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\ViewModels\\TodoAddVM.cs",
+              "RelativeDocumentMoniker": "TODO\\ViewModels\\TodoAddVM.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\ViewModels\\TodoAddVM.cs",
+              "RelativeToolTip": "TODO\\ViewModels\\TodoAddVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:50:46.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TODO\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TODO\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T02:20:21.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TodoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Mappers\\TodoMapper.cs",
+              "RelativeDocumentMoniker": "TODO\\Mappers\\TodoMapper.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Mappers\\TodoMapper.cs",
+              "RelativeToolTip": "TODO\\Mappers\\TodoMapper.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAvwA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:59:34.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "TODO\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "TODO\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T12:18:09.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SessionManagerService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Services\\SessionManagerService.cs",
+              "RelativeDocumentMoniker": "TODO\\Services\\SessionManagerService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Services\\SessionManagerService.cs",
+              "RelativeToolTip": "TODO\\Services\\SessionManagerService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T00:02:38.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TodoEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\ViewModels\\TodoEditVM.cs",
+              "RelativeDocumentMoniker": "TODO\\ViewModels\\TodoEditVM.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\ViewModels\\TodoEditVM.cs",
+              "RelativeToolTip": "TODO\\ViewModels\\TodoEditVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:56:55.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "TODO\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Models\\Todo.cs",
+              "RelativeToolTip": "TODO\\Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:25:20.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "TODO\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Models\\Login.cs",
+              "RelativeToolTip": "TODO\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T04:38:15.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TODO\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TODO\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:25:19.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Enums\\State.cs",
+              "RelativeDocumentMoniker": "TODO\\Enums\\State.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Enums\\State.cs",
+              "RelativeToolTip": "TODO\\Enums\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:42:43.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TODO\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TODO\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T03:03:05.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ISessionManagerService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Services\\ISessionManagerService.cs",
+              "RelativeDocumentMoniker": "TODO\\Services\\ISessionManagerService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\4\u00E8me ann\u00E9e\\.NET\\TODO\\TODO\\Services\\ISessionManagerService.cs",
+              "RelativeToolTip": "TODO\\Services\\ISessionManagerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T00:12:35.714Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
